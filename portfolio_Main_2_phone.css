@@ -95,7 +95,7 @@ footer .foot {
   color: #012B55;
   padding: 0;
   margin: 0;
-  margin-top: 60%;
+  margin-top: 100%;
   margin-bottom: 5%;
   display: block;
   left: -1%;
@@ -113,7 +113,7 @@ footer .fbfoot:hover, footer .igfoot:hover, footer .homefoot:hover {
 
 p.recommend {
   text-align: center;
-  margin-top: 60%;
+  margin-top: 15%;
   margin-bottom: 0;
 }
 
