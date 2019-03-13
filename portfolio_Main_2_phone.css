@@ -102,8 +102,8 @@ footer .foot {
 }
 footer .fbfoot, footer .igfoot, footer .homefoot {
   margin-bottom: 4%;
-  width: 4%;
-  margin-right: 2%;
+  width: 10%;
+  margin-right: 5%;
 }
 footer .fbfoot:hover, footer .igfoot:hover, footer .homefoot:hover {
   cursor: pointer;
