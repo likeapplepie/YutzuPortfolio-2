@@ -55,7 +55,16 @@ ul, li {
   margin: 0;
 }
 
-.group {
+ul{
+  font-weight: 500;
+  color: #012B55;
+}
+
+.group1 {
+  margin-top: 10%;
+}
+
+.group2 {
   margin-top: 10%;
 }
 
